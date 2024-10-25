@@ -1,4 +1,4 @@
-# 📝 intergrating frontend with the smart contract
+# 📝 intergrating react frontend with the smart contract
 
 
 ## ℹ️ About the code
